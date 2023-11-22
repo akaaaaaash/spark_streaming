@@ -1,1 +1,52 @@
-
+<records>
+  <record>
+    <id>1</id>
+    <name>Sample Name 1</name>
+    <value>Value 1</value>
+  </record>
+  <record>
+    <id>2</id>
+    <name>Sample Name 2</name>
+    <value>Value 2</value>
+  </record>
+  <record>
+    <id>3</id>
+    <name>Sample Name 3</name>
+    <value>Value 3</value>
+  </record>
+  <record>
+    <id>4</id>
+    <name>Sample Name 4</name>
+    <value>Value 4</value>
+  </record>
+  <record>
+    <id>5</id>
+    <name>Sample Name 5</name>
+    <value>Value 5</value>
+  </record>
+  <record>
+    <id>6</id>
+    <name>Sample Name 6</name>
+    <value>Value 6</value>
+  </record>
+  <record>
+    <id>7</id>
+    <name>Sample Name 7</name>
+    <value>Value 7</value>
+  </record>
+  <record>
+    <id>8</id>
+    <name>Sample Name 8</name>
+    <value>Value 8</value>
+  </record>
+  <record>
+    <id>9</id>
+    <name>Sample Name 9</name>
+    <value>Value 9</value>
+  </record>
+  <record>
+    <id>10</id>
+    <name>Sample Name 10</name>
+    <value>Value 10</value>
+  </record>
+</records>
