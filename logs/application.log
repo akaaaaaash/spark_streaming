@@ -1,0 +1,5 @@
+2023-04-01 10:00:00 INFO  - Starting Spark Streaming Application
+2023-04-01 10:01:15 INFO  - Kafka Stream Connected
+2023-04-01 10:02:30 WARN  - Minor delay in data processing
+2023-04-01 10:03:45 INFO  - Batch of data processed and written to HDFS
+2023-04-01 10:05:00 INFO  - Streaming application is running
