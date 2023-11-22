@@ -1,0 +1,11 @@
+kafka:
+  topic: "your_kafka_topic"
+  bootstrap_servers: "localhost:9092"
+
+hdfs:
+  raw_zone_path: "/path/to/hdfs/raw_zone"
+  processed_zone_path: "/path/to/hdfs/processed_zone"
+
+spark:
+  app_name: "StreamingApp"
+  master: "local[*]"
